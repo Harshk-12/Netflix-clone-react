@@ -40,7 +40,8 @@ function Header() {
         {/*sidebar  */}
         <div
           className="sidebar"
-          style={{ right: menu === false ? "-300px" : "0px" }}
+          style={{ right: menu === false ? "-300px" : "0px"  }}
+
         >
           <ul>
             

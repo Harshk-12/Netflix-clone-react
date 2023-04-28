@@ -55,6 +55,7 @@
     width: 300px;
     background-color: white;
     height: 100vh;
+    transition: 0.5s;
     /* display: inline-block; */
    
  
