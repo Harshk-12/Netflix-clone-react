@@ -62,6 +62,7 @@ function Tesla() {
         backgroundImage="accessories.jpg"
         
         btn1="Shop Now"
+        // arrow={false}
         
       /> 
     </>
